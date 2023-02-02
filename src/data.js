@@ -2,21 +2,24 @@ const data = {
     products: [
         {
         id: '1',
-        name:'Shoes',
-        price: 400,
-        image: 'https://picsum.photos/id/21/2400/1600',
+        name:'Peaches',
+        price: 2,
+        image: 'https://i.pinimg.com/564x/c5/06/75/c506754f100a099c91c2f872646ccd33.jpg',
+        instock: 5,
         },
         {
         id: '2',
-        name:'Macbook',
-        price: 1400,
-        image: 'https://picsum.photos/id/0/2400/1600',
+        name:'Blueberries',
+        price: 5,
+        image: "https://i.pinimg.com/564x/98/56/5b/98565b738b06ab3fbab7be5aa1c63b98.jpg",
+        instock: 5,
         },
         {
         id: '3',
-        name:'Camera',
-        price: 500,
-        image: 'https://picsum.photos/id/454/2400/1600',
+        name:'Cherries',
+        price: 4,
+        image: "https://i.pinimg.com/564x/a7/52/4d/a7524d76e8de308fd3a3b4963bf5b506.jpg",
+        instock: 5,
         },
     
        /* {
